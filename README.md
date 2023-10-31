@@ -1,7 +1,7 @@
 # ush
 Modular and FAST shell (package manager included) for Linux Distros in C++
 
-# Why is this modular? <br>
+# What is this "modular"? <br>
 You can EXTEND core-ush by adding binaries, or by changing bindir to /bin and having access to all your programs installed on your base linux system.
 <br>
 # How to install? <br>
