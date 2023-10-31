@@ -10,11 +10,11 @@ So far, this is ONLY installable on linux operating systems. No I will NOT be ma
 ## Installation Steps<br>
 ### Downloading Binaries Directly
 
-Step 1: Download the binaries from the `releases` section.
-Step 2: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.
+Step 1: Download the binaries from the `releases` section.<br>
+Step 2: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.<br>
 
 ### Compiling with G++
 
-Step 1: Download source files
-Step 2: Run command in terminal `g++ -o ./shell ./shell.cpp` to compile shell.cpp
-Step 3: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.
+Step 1: Download source files<br>
+Step 2: Run command in terminal `g++ -o ./shell ./shell.cpp` to compile shell.cpp<br>
+Step 3: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.<br>
