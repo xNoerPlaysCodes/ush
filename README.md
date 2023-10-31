@@ -18,3 +18,6 @@ Step 2: Run `./shell` in your terminal and run `tutorial` to get a brief tutoria
 Step 1: Download source files<br>
 Step 2: Run command in terminal `g++ -o ./shell ./shell.cpp` to compile shell.cpp<br>
 Step 3: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.<br>
+
+## What is ush?<br>
+uSH is a fast shell (particularly since it's made in C++, known for it's speed) which is modular (supports external binaries) and has a default package manager (ups) installed which has *yet* 1 total package but that is to change soon! 
