@@ -1,0 +1,4 @@
+help (no args) - Returns help menu
+about (no args) - Returns about info
+clear (no args) - Clears terminal
+exit (no args) - Exits ush
