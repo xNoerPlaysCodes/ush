@@ -13,7 +13,7 @@ So far, this is ONLY installable on linux operating systems. No I will NOT be ma
 Step 1: Download the binaries from the `releases` section.<br>
 Step 2: Run `./shell` in your terminal and run `tutorial` to get a brief tutorial on ush.<br>
 
-### Compiling with G++
+### Compiling from source
 
 Step 1: Download source files<br>
 Step 2: Download lib readline (You can use google).<br>
